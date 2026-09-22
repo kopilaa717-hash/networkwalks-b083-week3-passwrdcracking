@@ -20,7 +20,15 @@
 - copy the password and use that password in encrypted pdf.
 - file is opened.
   <img width="1920" height="1080" alt="Screenshot 2026-09-20 220651" src="https://github.com/user-attachments/assets/4fb3dded-7f7f-4db8-b0db-c23149facdfb" />
-  <img width="1920" height="1080" alt="Screenshot 2026-09-20 221251" src="https://github.com/user-attachments/assets/48886be4-edf8-4829-99e6-b6eabf7f229f" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b15b2e90-6750-448d-a65a-762a7ad79020" />
+ <img width="1920" height="1080" alt="Screenshot 2026-09-22 205716" src="https://github.com/user-attachments/assets/7e2fce46-7991-45c6-93cd-f33801fcabc0" />
+ 
+
+
+
+ 
+
+
 
 
   
