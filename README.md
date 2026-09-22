@@ -4,5 +4,5 @@
 #Task1
 ## Download JTR
 ### First download John the ripper tool
-https://distro.ibiblio.org/openwall/projects/john/1.9.0/
+ . https://distro.ibiblio.org/openwall/projects/john/1.9.0/
 
