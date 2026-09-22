@@ -19,14 +19,18 @@
 - click the start attack button.
 - copy the password and use that password in encrypted pdf.
 - file is opened.
+  
   <img width="1920" height="1080" alt="Screenshot 2026-09-20 220651" src="https://github.com/user-attachments/assets/4fb3dded-7f7f-4db8-b0db-c23149facdfb" />
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b15b2e90-6750-448d-a65a-762a7ad79020" />
- <img width="1920" height="1080" alt="Screenshot 2026-09-22 205716" src="https://github.com/user-attachments/assets/7e2fce46-7991-45c6-93cd-f33801fcabc0" />
- 
+  <img width="1920" height="1080" alt="Screenshot 2026-09-22 205629" src="https://github.com/user-attachments/assets/48007aa7-35d5-4628-ac24-56599de1282f" />
+  <img width="1920" height="1080" alt="Screenshot 2026-09-22 205716" src="https://github.com/user-attachments/assets/09ed5377-2e81-411a-bdf0-ad8d27f753e6" />
+  <img width="1920" height="1080" alt="Screenshot 2026-09-22 210054" src="https://github.com/user-attachments/assets/d0c66975-3926-48eb-a341-f434720a977d" />
+  <img width="1920" height="1080" alt="Screenshot 2026-09-22 210127" src="https://github.com/user-attachments/assets/f0d145a7-f26f-4579-b0eb-0ee18213f949" />
+  <img width="1920" height="1080" alt="Screenshot 2026-09-22 210210" src="https://github.com/user-attachments/assets/83fc1843-f91a-4643-9c8d-6e6fcb4c3868" />
+
+  
 
 
 
- 
 
 
 
