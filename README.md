@@ -29,9 +29,18 @@
 ## Task2
 Hash calculator with password cracker.
 
-## Step1
+## STEP1
 Download the encrypted PDF file(My locked PDF1.pdf) to your laptop from the lap page:
 - https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+
+ ## STEP2
+ Open the Networkwalks Hash calculator in web browser:
+ - https://networkwalks.com/hash-calculator/
+
+## STEP3
+upload the locked PDF file to the Hash Calculator. The hash value should start from #pdf...
+
+  
 
   
 
