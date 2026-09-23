@@ -1,7 +1,7 @@
 # networkwalks-b083-week3-passwrdcracking
 ### As part of this week ,week3 internship at networkwalks I learned to crack passwords using the tool John the Ripper.
 
-#Task1
+# Task1
 ## Download JTR
 ### First download John the ripper tool
 - https://distro.ibiblio.org/openwall/projects/john/1.9.0/
@@ -26,32 +26,32 @@
   <img width="1920" height="1080" alt="Screenshot 2026-09-22 210054" src="https://github.com/user-attachments/assets/d0c66975-3926-48eb-a341-f434720a977d" />
   <img width="1920" height="1080" alt="Screenshot 2026-09-22 210127" src="https://github.com/user-attachments/assets/f0d145a7-f26f-4579-b0eb-0ee18213f949" />
   <img width="1920" height="1080" alt="Screenshot 2026-09-22 210210" src="https://github.com/user-attachments/assets/83fc1843-f91a-4643-9c8d-6e6fcb4c3868" />
-## Task2
+# Task2
 Hash calculator with password cracker.
 
-## STEP1
+## STEP 1
 Download the encrypted PDF file(My locked PDF1.pdf) to your laptop from the lap page:
 - https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
 
- ## STEP2
+ ## STEP 2
  Open the Networkwalks Hash calculator in web browser:
  - https://networkwalks.com/hash-calculator/
 
-## STEP3
+## STEP 3
 upload the locked PDF file to the Hash Calculator. The hash value should start from  pdf...
 <img width="1920" height="1080" alt="Screenshot 2026-09-23 204045" src="https://github.com/user-attachments/assets/28e6707f-8ae7-4bef-aee8-fd0148305702" />
 
-## STEP4
+## STEP 4
 Copy the full hash value.
 
-## STEP5
+## STEP 5
 Open the NetworkWalks Password cracker in webbrowser.
 
-## STEP6
+## STEP 6
 Paste the hash value into the password Cracker an start the attack . The tool will try different passwords until it finds a match.
 <img width="1920" height="1080" alt="Screenshot 2026-09-23 204124" src="https://github.com/user-attachments/assets/d1417a0a-9ade-41cf-98ee-25157fe5fb89" />
 
-## STEP7
+## STEP 7
 wait for the tool to finish. The cracked password is shown on the screen.
 <img width="1920" height="1080" alt="Screenshot 2026-09-23 204209" src="https://github.com/user-attachments/assets/dc9f22e9-aefb-4492-bcfc-7fd9b860c23c" />
 
