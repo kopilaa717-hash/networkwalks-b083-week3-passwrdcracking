@@ -53,7 +53,7 @@ Paste the hash value into the password Cracker an start the attack . The tool wi
 
 ## STEP7
 wait for the tool to finish. The cracked password is shown on the screen.
-<img width="1920" height="1080" alt="Screenshot 2026-09-23 204209" src="https://github.com/user-attachments/assets/dc9f22e9-aefb-4492-bcfc-7fd9b860c23c" / >
+<img width="1920" height="1080" alt="Screenshot 2026-09-23 204209" src="https://github.com/user-attachments/assets/dc9f22e9-aefb-4492-bcfc-7fd9b860c23c" />
 
 ## STEP8
 open the locked pdf file and enter cracked password.
