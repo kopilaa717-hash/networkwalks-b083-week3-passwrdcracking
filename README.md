@@ -38,7 +38,7 @@ Download the encrypted PDF file(My locked PDF1.pdf) to your laptop from the lap 
  - https://networkwalks.com/hash-calculator/
 
 ## STEP3
-upload the locked PDF file to the Hash Calculator. The hash value should start from #pdf...
+upload the locked PDF file to the Hash Calculator. The hash value should start from # pdf...
 
   
 
