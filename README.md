@@ -17,7 +17,7 @@
 - open Johnny GUI and click the open password file.
 - browse the file .
 - click the start attack button.
-- copy the password and use that password in encrypted pdf.
+- copy the password and use that password in encrypted *pdf*.
 - file is opened.
   
   <img width="1920" height="1080" alt="Screenshot 2026-09-20 220651" src="https://github.com/user-attachments/assets/4fb3dded-7f7f-4db8-b0db-c23149facdfb" />
