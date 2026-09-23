@@ -38,7 +38,34 @@ Download the encrypted PDF file(My locked PDF1.pdf) to your laptop from the lap 
  - https://networkwalks.com/hash-calculator/
 
 ## STEP3
-upload the locked PDF file to the Hash Calculator. The hash value should start from # pdf...
+upload the locked PDF file to the Hash Calculator. The hash value should start from  pdf...
+<img width="1920" height="1080" alt="Screenshot 2026-09-23 204045" src="https://github.com/user-attachments/assets/28e6707f-8ae7-4bef-aee8-fd0148305702" />
+
+## STEP4
+Copy the full hash value.
+
+## STEP5
+Open the NetworkWalks Password cracker in webbrowser.
+
+## STEP6
+Paste the hash value into the password Cracker an start the attack . The tool will try different passwords until it finds a match.
+<img width="1920" height="1080" alt="Screenshot 2026-09-23 204124" src="https://github.com/user-attachments/assets/d1417a0a-9ade-41cf-98ee-25157fe5fb89" />
+
+## STEP7
+wait for the tool to finish. The cracked password is shown on the screen.
+<img width="1920" height="1080" alt="Screenshot 2026-09-23 204209" src="https://github.com/user-attachments/assets/dc9f22e9-aefb-4492-bcfc-7fd9b860c23c" / >
+
+## STEP8
+open the locked pdf file and enter cracked password.
+<img width="1920" height="1080" alt="Screenshot 2026-09-23 204309" src="https://github.com/user-attachments/assets/30dcf329-6cc9-4b37-bea0-4233fa1b7330" />
+
+## Challenges and Troubleshooting:
+I faced a problem in the beginning . I was trying to fix the setting of the johhny GUI setting, and in the  browsing part i uploaded the same folder but inside it with johhny file where the continuous many johnny GUI is opened until I restart the computer .After when I clicked the GUI the same problem arises  until I end process tree from details section in Task Manager.
+
+
+
+
+
 
   
 
