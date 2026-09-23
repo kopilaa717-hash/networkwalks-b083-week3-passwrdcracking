@@ -26,6 +26,12 @@
   <img width="1920" height="1080" alt="Screenshot 2026-09-22 210054" src="https://github.com/user-attachments/assets/d0c66975-3926-48eb-a341-f434720a977d" />
   <img width="1920" height="1080" alt="Screenshot 2026-09-22 210127" src="https://github.com/user-attachments/assets/f0d145a7-f26f-4579-b0eb-0ee18213f949" />
   <img width="1920" height="1080" alt="Screenshot 2026-09-22 210210" src="https://github.com/user-attachments/assets/83fc1843-f91a-4643-9c8d-6e6fcb4c3868" />
+## Task2
+Hash calculator with password cracker.
+
+## Step1
+Download the encrypted PDF file(My locked PDF1.pdf) to your laptop from the lap page:
+- https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
 
   
 
